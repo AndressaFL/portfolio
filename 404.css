@@ -1,0 +1,36 @@
+
+  body {
+    background-color: #00AFF9;
+  }
+  
+  .vertical-center {
+    min-height: 100%;
+    min-height: 100vh;
+  
+    display: flex;
+    align-items: center;
+  }
+ 
+  
+  h1 {
+   
+    font: 4em Roboto;
+    text-align: center;
+  }
+  p {
+    
+   
+    font: 2em Roboto;
+    text-align: center;
+  }
+
+  a {
+    
+    
+    font: 2em Roboto;
+    text-align: center;
+    color: white;
+    font-size: large;
+  }
+
+  
